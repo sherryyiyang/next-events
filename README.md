@@ -31,7 +31,6 @@ Here’s a summary of the coding journey for the `next-events` project:
    - Added metadata and fixed build errors.
 
 ### Coding Journey Summary
-
 - The project progressed in clear chapters, each focusing on a specific feature or improvement.
 - Started with foundational setup, UI, and navigation.
 - Gradually added user management, authentication, and profile features.
