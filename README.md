@@ -12,27 +12,21 @@ Here’s a summary of the coding journey for the `next-events` project:
 
 1. **Initialization (Feb 2, 2024)**
    - Project initialized with basic setup.
-
 2. **Early UI & Routing (Feb 2–5, 2024)**
    - Added DaisyUI for styling.
    - Implemented routing and navigation.
    - Differentiated server and client components.
-
 3. **Server Actions & User Features (Feb 6–7, 2024)**
    - Introduced server actions.
    - Built user sign-up process.
-
 4. **Authentication (Feb 8–12, 2024)**
    - Integrated NextAuth for authentication.
    - Added authentication flows and user profile update section.
-
 5. **Image Uploads (Feb 13, 2024)**
    - Integrated Uploadthing for image uploads.
-
 6. **Event Management (Feb 13–16, 2024)**
    - Created, updated, deleted, and displayed events.
    - Added event search functionality.
-
 7. **Final Touches (Feb 16, 2024)**
    - Added metadata and fixed build errors.
 
